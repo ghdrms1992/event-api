@@ -2,7 +2,7 @@
 practice for only me, do anything I want
 
 # Skills
-- Java 18
+- Java 17
 - Spring Boot
 - JPA
 - H2
