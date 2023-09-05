@@ -1,4 +1,4 @@
-package com.rero.event;
+package com.rero;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
