@@ -5,7 +5,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
 @Entity
-public class Event {
+public class EventEntity {
+
     @Id
     @GeneratedValue
     private Long eventNo;
